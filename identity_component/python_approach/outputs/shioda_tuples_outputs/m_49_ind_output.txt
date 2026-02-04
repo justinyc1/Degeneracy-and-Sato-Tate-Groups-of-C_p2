@@ -1,0 +1,11 @@
+For m = 49 and d = 4
+The program took 0.0009982585906982422 seconds to complete. 
+The number of indecomposable tuple(s) is: 6
+
+The indecomposable tuples are:
+(1, 8, 15, 22, 29, 36, 42, 43)
+(2, 9, 16, 23, 30, 35, 37, 44)
+(3, 10, 17, 24, 28, 31, 38, 45)
+(4, 11, 18, 21, 25, 32, 39, 46)
+(5, 12, 14, 19, 26, 33, 40, 47)
+(6, 7, 13, 20, 27, 34, 41, 48)

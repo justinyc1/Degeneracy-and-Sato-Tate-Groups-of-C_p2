@@ -1,0 +1,24 @@
+For m = 9 and d = 2
+These are integers in the z mod m z star set for m = 9
+ [1, 2, 4, 5, 7, 8]
+The program took 0.4260075092315674 seconds to complete.
+The number of tuple(s) in the V set is: 8
+The number of tuple(s) in the E set is: 2
+The number of tuple(s) with no pairs is: 2
+The number of indecomposable tuple(s) is: 2
+
+The tuples in the V set are:
+(1, 2, 7, 8)
+(1, 3, 6, 8)
+(1, 4, 5, 8)
+(1, 4, 6, 7)
+(2, 3, 5, 8)
+(2, 3, 6, 7)
+(2, 4, 5, 7)
+(3, 4, 5, 6)
+The number of tuple(s) in the V set is: 8
+
+The indecomposable tuples are:
+(1, 4, 6, 7)
+(2, 3, 5, 8)
+The number of indecomposable tuple(s) is: 2

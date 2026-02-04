@@ -1,0 +1,7 @@
+For m = 9 and d = 2
+The program took 0.0 seconds to complete. 
+The number of indecomposable tuple(s) is: 2
+
+The indecomposable tuples are:
+(1, 4, 6, 7)
+(2, 3, 5, 8)

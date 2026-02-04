@@ -1,0 +1,9 @@
+For m = 25 and d = 3
+The program took 0.0009927749633789062 seconds to complete. 
+The number of indecomposable tuple(s) is: 4
+
+The indecomposable tuples are:
+(1, 6, 11, -9, -5, -4) -> max value: 11
+(2, 7, 12, -10, -8, -3) -> max value: 12
+(3, 8, 10, -12, -7, -2) -> max value: -12
+(4, 5, 9, -11, -6, -1) -> max value: -11

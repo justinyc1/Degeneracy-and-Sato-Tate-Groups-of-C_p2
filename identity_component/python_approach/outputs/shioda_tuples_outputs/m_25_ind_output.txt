@@ -1,0 +1,9 @@
+For m = 25 and d = 3
+The program took 0.001001596450805664 seconds to complete. 
+The number of indecomposable tuple(s) is: 4
+
+The indecomposable tuples are:
+(1, 6, 11, 16, 20, 21)
+(2, 7, 12, 15, 17, 22)
+(3, 8, 10, 13, 18, 23)
+(4, 5, 9, 14, 19, 24)
