@@ -1,4 +1,4 @@
-# Identity Component $\text{ST}(\text{Jac}(\text{C}_{p^2}))/\text{ST}^{0}(\text{Jac}(\text{C}\_{p^2}))$
+# Identity Component $\text{ST}^{0}(\text{Jac}(\text{C}\_{p^2}))$
 This folder contains both Java and Python code approaches used pertaining to the identity component of $\text{ST}(\text{Jac}(\text{C}_{p^2}))$.
 
 ## Approaches
