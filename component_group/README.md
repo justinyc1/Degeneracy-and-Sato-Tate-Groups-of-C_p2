@@ -2,6 +2,11 @@
 
 This folder contains the code used pertaining to the component group of $\text{ST}(\text{Jac}(\text{C}_{p^2}))$.
 
+## File Structure
+
+- `component_group_generator.sage` contains the function used to compute a generator of the component group.
+- `example.ipynb` is a demonstration of computing a component group generator for $p=5, 7$.
+
 ## Installation
 
 ### Prerequisites  
@@ -13,13 +18,15 @@ Ensure the following are installed:
    - See the official SageMath installation guide:
     https://doc.sagemath.org/html/en/installation/
 
+    > Note: Installing Sage/SageMath via ```pip install sagemath``` is insufficient, as a limited package of Sage/SageMath will be installed. Instead, please install the *full* Sage/SageMath distribution from its [official website](https://www.sagemath.org/).
+
 - Git
 
     ```bash
     git --version
     ```
 
-- (Optional) Jupyter Notebook for `example.ipynb`
+- **(Optional)** Jupyter Notebook for `example.ipynb`
 
     ```bash
     pip install notebook
@@ -40,7 +47,7 @@ cd Degeneracy-and-Sato-Tate-Groups-of-C_p2
     cd component_group/
     ```
 
-- To run the example:
+- **(Optional)** To run `example.ipynb` locally:
 
     1. Install Jupyter Notebook from Sage's shell
 
@@ -53,10 +60,4 @@ cd Degeneracy-and-Sato-Tate-Groups-of-C_p2
 
     3. Open `example.ipynb` and ensure SageMath is selected as the kernel.
 
-    > Note: Installing Sage/SageMath via ```pip install sagemath``` is insufficient, as a limited package of Sage/SageMath will be installed. Instead, please install the *full* Sage/SageMath distribution from its [official website](https://www.sagemath.org/).
-
-
-## File Structure
-
-- `component_group_generator.sage` contains the function used to compute a generator of the component group.
-- `example.ipynb` is a demonstration of computing a component group generator for $p=5, 7$.
+    > Note: There is more than one way to run the notebook locally. We provide the simplest method to do so.
