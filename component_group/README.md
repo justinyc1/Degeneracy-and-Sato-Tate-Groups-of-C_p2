@@ -14,10 +14,6 @@ This folder contains the code used pertaining to the component group of $\text{S
 Ensure the following are installed:
 
 - SageMath 10.7 or higher
-
-   - See the official SageMath installation guide:
-    https://doc.sagemath.org/html/en/installation/
-
     > Note: Installing Sage/SageMath via ```pip install sagemath``` is insufficient, as a limited package of Sage/SageMath will be installed. Instead, please install the *full* Sage/SageMath distribution from its [official website](https://www.sagemath.org/).
 
 - Git
